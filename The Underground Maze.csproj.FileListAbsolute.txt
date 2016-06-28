@@ -1,0 +1,9 @@
+C:\Users\Никита\Desktop\The Underground Maze\The Underground Maze\bin\Debug\The Underground Maze.exe.config
+C:\Users\Никита\Desktop\The Underground Maze\The Underground Maze\bin\Debug\The Underground Maze.exe
+C:\Users\Никита\Desktop\The Underground Maze\The Underground Maze\bin\Debug\The Underground Maze.pdb
+C:\Users\Никита\Desktop\The Underground Maze\The Underground Maze\obj\Debug\The Underground Maze.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Desktop\The Underground Maze\The Underground Maze\obj\Debug\The_Underground_Maze.Form1.resources
+C:\Users\Никита\Desktop\The Underground Maze\The Underground Maze\obj\Debug\The_Underground_Maze.Properties.Resources.resources
+C:\Users\Никита\Desktop\The Underground Maze\The Underground Maze\obj\Debug\The Underground Maze.csproj.GenerateResource.Cache
+C:\Users\Никита\Desktop\The Underground Maze\The Underground Maze\obj\Debug\The Underground Maze.exe
+C:\Users\Никита\Desktop\The Underground Maze\The Underground Maze\obj\Debug\The Underground Maze.pdb
